@@ -44,6 +44,7 @@ import androidx.compose.ui.unit.dp
 import com.example.reply.R
 import com.example.reply.data.Email
 import com.example.reply.data.local.LocalAccountsDataProvider
+import com.example.reply.ui.utils.ReplyNavigationType
 
 /**
  * Component that displays a single pane of list of emails
